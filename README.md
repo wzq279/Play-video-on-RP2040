@@ -6,11 +6,11 @@
 
 使用方法<br>
 ====
-1.按住PICO上的bootset按钮，并连接数据线至电脑，电脑会识别到RPI-RP2，将RPI_PICO-20260406-v1.28.0.uf2复制进去，然后拔掉数据线，再重新连接<br>
+1.按住PICO上的bootset按钮，并连接数据线至电脑，电脑会识别到RPI-RP2，将适用于PICO的MicroPython文件复制进去，然后拔掉数据线，再重新连接<br>
 <br>
 3.在电脑上修改 视频转换.py 中的 INPUT_DIR ， OUTPUT_BIN ， OUTPUT_TXT ，并运行转换<br>
 <br>
-2.打开Thonny，将 ssd1306.py , main.py 和制作好的 video.bin , frame_count.txt 上传至PICO<br>
+2.打开Thonny，将屏幕驱动, main.py 和制作好的 video.bin , frame_count.txt 上传至PICO<br>
 <br>
 4.大功告成！<br>
 
