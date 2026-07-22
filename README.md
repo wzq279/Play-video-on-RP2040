@@ -23,7 +23,5 @@
 3.未完待续...<br>
 
 作者: Bilibili: https://space.bilibili.com/3546622338271451<br>
-<br>
-      Github: https://github.com/wzq279<br>
 ----
 演示视频: https://www.bilibili.com/video/BV15Cjw6zEKz<br>
